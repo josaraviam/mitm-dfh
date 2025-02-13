@@ -7,6 +7,10 @@ Se deberá implementar el ataque MITM al algoritmo de Diffie-Hellman atendiendo 
 1. Usar el número primo estándar del algoritmo Diffie-Hellman.
 2. Generar las llaves privadas de Alice, Bob y Eve de tamaño estándar.
 3. Hacer el cómputo de la llave secreta entre Alice y Eve y Bob y Eve. Verificar que son iguales y aplicar la función hash a la llave obtenida.
+
+![image](https://github.com/user-attachments/assets/254a3575-a7b4-4c36-a44e-515c5e52fb08)
+
+
 4. Explicar la gravedad de este ataque en tres escenarios distintos cuando Alice inicia una comunicación con Bob.
 5. Ver el Episodio 4 (*Digits*) de la serie *Connected* de Netflix y discutir dos aplicaciones potenciales de la Ley de Benford a la criptología.
 6. Describir el modelo OSI.
